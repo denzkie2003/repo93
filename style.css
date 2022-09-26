@@ -22,6 +22,9 @@ body {
 ol li a{
   text-decoration: none
 }
+ol li{
+  margin: 8px 5px;
+}
 ol li a:hover{
   text-decoration: underline
 }
@@ -33,3 +36,7 @@ ol li a:hover{
   padding: 10px;
 }
 .post-con h4,h5,p{margin:8px 0}
+.list{
+  padding: 5px;
+  margin: 15px;
+}
